@@ -6,8 +6,17 @@ body{
 color: aquamarine;
 background-color: black;
 }
-
-
+h3{
+font-family: cursive;
+color: azure;
+}
+p{
+color: aliceblue;    
+}
+img{
+height: 450px;
+width: 600px;
+}
 
 
 
